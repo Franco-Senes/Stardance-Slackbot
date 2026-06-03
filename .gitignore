@@ -1,0 +1,4 @@
+node_modules/
+.env
+SlackInfo.txt
+.idea/
