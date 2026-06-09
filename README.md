@@ -1,10 +1,10 @@
 # My first slack bot 
 
 ## Features
-* /dsb-ping - check bot latency
-* /dsb-help - list all of the available commands
-* /dsb-catfact - get a random cat fact
-* /dsb-joke - get a random joke
+* /zrr-ping - check bot latency
+* /zrr-help - list all of the available commands
+* /zrr-catfact - get a random cat fact
+* /zrr-joke - get a random joke
 
 ## How to set it up
 * Make sure to have nodejs and install the necessary packages with `npm i @slack/bolt axios dotenv`
